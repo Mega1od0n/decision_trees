@@ -7,7 +7,7 @@
 ### Decision Tree с нуля (`decision_tree.py`)
 - Критерий разбиения: Gini impurity (векторизованное вычисление через кумулятивные суммы)
 - Поддержка вещественных и категориальных признаков
-- Настраиваемые критерии останова: `max_depth`, `min_samples_split`, `min_samples_leaf`
+- Настраиваемые критерии остановки: `max_depth`, `min_samples_split`, `min_samples_leaf`
 - Вычисление feature importances
 
 ### Random Forest с нуля
